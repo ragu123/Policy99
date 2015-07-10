@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ragu\AndroidStudioProjects\Policy99\policy99\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\ragu\AndroidStudioProjects\Policy99\policy99\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-db2aaeea714ac0e7410c11e6461d537e6642d811.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\ragu\AndroidStudioProjects\Policy99\policy99\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-658f7cef926a1f2f52e1b8890e7e60fa8dcc99c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\ragu\AndroidStudioProjects\Policy99\policy99\build\intermediates\exploded-aar\Policy99\policySlide\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c28c88ece3738711917e389125835063f71cfeac">
+        <dex dex="C:\Users\ragu\AndroidStudioProjects\Policy99\policy99\build\intermediates\pre-dexed\debug\classes-d3aaf444694e430b4548ce1d6ab2f8604ce8616e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ragu\AndroidStudioProjects\Policy99\policy99\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\ragu\AndroidStudioProjects\Policy99\policy99\build\intermediates\pre-dexed\debug\classes-6f130930e550709868382c516a771159b59f241d.jar" />
+    </item>
+    <item
+        jar="C:\Users\ragu\AndroidStudioProjects\Policy99\policy99\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\ragu\AndroidStudioProjects\Policy99\policy99\build\intermediates\pre-dexed\debug\classes-98d478e41ba45c674ae8cc1bef0bd395f43ec3e5.jar" />
+    </item>
+
+</items>
